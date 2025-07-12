@@ -1,4 +1,4 @@
-giteveryday(7)
+git everyday (7)
 ==============
 
 NAME
